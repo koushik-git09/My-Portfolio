@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris AI/ML Portfolio Design Prototype",
+  "description": "Futuristic UI/UX design prototype and Figma-organized design system for a Computer Science & AI/ML engineering portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
