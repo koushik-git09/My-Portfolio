@@ -71,3 +71,14 @@ yarn-debug.log*
 yarn-error.log*
 bun.lockb
 .turbo/
+# Images (Do not push images to GitHub)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.avif
+*.bmp
+*.tiff
+*.ico
+src/assets/images/
