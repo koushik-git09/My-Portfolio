@@ -6,3 +6,15 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Images (Do not push images to GitHub)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.avif
+*.bmp
+*.tiff
+*.ico
+src/assets/images/

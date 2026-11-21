@@ -32,7 +32,21 @@ build/
 .eggs/
 .vercel
 
-# Raw design assets & scratch uploads (Website production images in frontend/src/assets/images are preserved)
+# Image assets (Never push images to GitHub)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.avif
+*.bmp
+*.tiff
+*.ico
+**/assets/images/
+frontend/src/assets/images/
+src/assets/images/
+
+# Raw design assets & scratch uploads
 *.psd
 *.ai
 *.raw
